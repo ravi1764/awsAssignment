@@ -1,0 +1,2 @@
+# awsAssignment
+Repo for aws
